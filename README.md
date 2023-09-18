@@ -6,8 +6,6 @@
 - <b>[Ethics and Compliance in Cybersecurity](https://github.com/projectsbyKD/LegalAnalysis/tree/main)
 
 <h2> Certifications:</h2>
-
-- <b>CompTIA Network+ </b>
   
 - <b>CompTIA A+ </b>
  
@@ -23,7 +21,7 @@ About Me:
 - 🔭 I’m currently working on ... growing my skills in cybersecurity
 - 🌱 I’m currently learning ... how to build more secure networks 
 - 🤔 I’m looking for help with ... all things cybersecurity and networking 
-- 💬 Ask me about ... my python projects 
+- 💬 Ask me about...best cybersecurity practices
 - ⚡ Fun fact: ... TACOS ARE LIFE
   
 
