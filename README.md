@@ -13,7 +13,7 @@
  
 - <b>ITIL V4 </b>
   
-<h2> Programming Languages </h2>
+<h2> Programming Languages: </h2>
 
 - Python
 
