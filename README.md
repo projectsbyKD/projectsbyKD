@@ -3,7 +3,7 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>[Home Network Setup](https://github.com/projectsbyKD/HomeNetworkSetup/tree/main)
-- <b>[Ethics and Compliance in CYbersecurity](https://github.com/projectsbyKD/LegalAnalysis/tree/main)
+- <b>[Ethics and Compliance in Cybersecurity](https://github.com/projectsbyKD/LegalAnalysis/tree/main)
   
 
 
