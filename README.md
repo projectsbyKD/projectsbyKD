@@ -4,6 +4,7 @@
 
 - <b>[Home Network Setup](https://github.com/projectsbyKD/HomeNetworkSetup/tree/main)
 - <b>[Ethics and Compliance in Cybersecurity](https://github.com/projectsbyKD/LegalAnalysis/tree/main)
+- <b>[CompTIA Troubleshooting and Common Helpdesk Issues/Solutions](https://github.com/projectsbyKD/TroubleshootingAndCommonProblemsAndSoulutions)
 
 <h2> Certifications:</h2>
   
