@@ -20,7 +20,7 @@
 About Me:
 
 - 🔭 I’m currently working on ... growing my skills in cybersecurity
-- 🌱 I’m currently learning ... how to build more secure networks 
+- 🌱 I’m currently learning ... how to build more secure networks and how to code/script 
 - 🤔 I’m looking for help with ... all things cybersecurity and networking 
 - 💬 Ask me about...best cybersecurity practices
 - ⚡ Fun fact: ... TACOS ARE LIFE
